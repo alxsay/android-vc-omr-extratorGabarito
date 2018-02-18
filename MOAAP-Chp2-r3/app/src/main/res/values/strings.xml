@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Detecção de Imagens</string>
+    <string name="title_activity_main">Detectar Características</string>
+    <string name="open_gallery">Selecionar Imagem</string>
+    <string name="image_view_description">Ver Imagem</string>
+    <string name="DoG">Diferença Gaussiana</string>
+    <string name="CannyEdges">Canny Edges</string>
+    <string name="SobelFilter">Sobel Filter</string>
+    <string name="HoughLines">Hough Lines</string>
+    <string name="HoughCircles">Hough Circles</string>
+    <string name="Contours">Contornos</string>
+    <string name="HarrisCorners">Harris Corners</string>
+    <string name="TestOMR">Test OMR</string>
+    <string name="correcaoProva">Analizar Gabarito</string>
+</resources>
